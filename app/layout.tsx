@@ -6,6 +6,7 @@ import Navbar from "@/public/src/component/Base/Navbar/Navbar";
 
 export default function RootLayout({ children }:any) {
   return (
+
     <html
       lang="en"
       className={` h-full antialiased`}
@@ -18,5 +19,7 @@ export default function RootLayout({ children }:any) {
         </main>
       </body>
     </html>
+    
+  
   );
 }
