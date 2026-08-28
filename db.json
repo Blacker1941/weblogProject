@@ -1,0 +1,139 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Getting Started with React",
+      "summary": "Learn the fundamentals of React and build your first interactive user interface.",
+      "image": "https://picsum.photos/600/400?random=1",
+      "category": "Frontend",
+      "tags": ["React", "JavaScript", "Beginner"],
+      "content": "React is one of the most popular JavaScript libraries for building user interfaces. It uses a component-based architecture, making it easy to create reusable UI elements. By combining components with state and props, developers can build fast, interactive, and scalable web applications."
+    },
+    {
+      "id": 2,
+      "title": "Understanding Next.js App Router",
+      "summary": "Explore the App Router and modern routing system introduced in Next.js.",
+      "image": "https://picsum.photos/600/400?random=2",
+      "category": "Next.js",
+      "tags": ["Next.js", "Routing", "SSR"],
+      "content": "The App Router in Next.js simplifies routing while introducing layouts, nested routes, and server components. It improves performance and developer experience by allowing applications to share layouts and fetch data efficiently."
+    },
+    {
+      "id": 3,
+      "title": "Mastering TypeScript Basics",
+      "summary": "A beginner-friendly guide to understanding TypeScript and static typing.",
+      "image": "https://picsum.photos/600/400?random=3",
+      "category": "TypeScript",
+      "tags": ["TypeScript", "Programming", "JavaScript"],
+      "content": "TypeScript extends JavaScript by adding static types. It helps developers catch errors during development, improves code readability, and makes large applications easier to maintain with better tooling support."
+    },
+    {
+      "id": 4,
+      "title": "Building Responsive Layouts with Tailwind CSS",
+      "summary": "Discover how Tailwind CSS speeds up responsive web design.",
+      "image": "https://picsum.photos/600/400?random=4",
+      "category": "CSS",
+      "tags": ["Tailwind CSS", "Responsive", "Frontend"],
+      "content": "Tailwind CSS is a utility-first CSS framework that enables developers to create responsive layouts quickly. With predefined utility classes, it eliminates the need for writing repetitive CSS while keeping designs consistent."
+    },
+    {
+      "id": 5,
+      "title": "State Management with Redux Toolkit",
+      "summary": "Learn why Redux Toolkit is the recommended way to manage application state.",
+      "image": "https://picsum.photos/600/400?random=5",
+      "category": "Redux",
+      "tags": ["Redux", "State", "Toolkit"],
+      "content": "Redux Toolkit reduces boilerplate and simplifies Redux development. It provides utilities like createSlice and configureStore, making global state management cleaner, faster, and easier to understand."
+    },
+    {
+      "id": 6,
+      "title": "Fetching Data with React Query",
+      "summary": "Handle server state efficiently with React Query.",
+      "image": "https://picsum.photos/600/400?random=6",
+      "category": "React Query",
+      "tags": ["React Query", "API", "Caching"],
+      "content": "React Query simplifies asynchronous data fetching by providing caching, background updates, and automatic synchronization with APIs. It greatly reduces the need for manual loading and error state management."
+    },
+    {
+      "id": 7,
+      "title": "REST API Best Practices",
+      "summary": "Understand the principles of designing clean and maintainable REST APIs.",
+      "image": "https://picsum.photos/600/400?random=7",
+      "category": "Backend",
+      "tags": ["API", "REST", "Backend"],
+      "content": "A well-designed REST API uses meaningful endpoints, proper HTTP methods, consistent status codes, and secure authentication. Following best practices improves scalability and makes APIs easier to consume."
+    },
+    {
+      "id": 8,
+      "title": "Introduction to Node.js",
+      "summary": "Discover how Node.js allows JavaScript to run on the server.",
+      "image": "https://picsum.photos/600/400?random=8",
+      "category": "Node.js",
+      "tags": ["Node.js", "Backend", "JavaScript"],
+      "content": "Node.js is a JavaScript runtime built on Chrome's V8 engine. It enables developers to build fast, event-driven server-side applications using the same language across both frontend and backend."
+    },
+    {
+      "id": 9,
+      "title": "Improving Website Performance",
+      "summary": "Simple techniques to optimize web application performance.",
+      "image": "https://picsum.photos/600/400?random=9",
+      "category": "Performance",
+      "tags": ["Optimization", "Performance", "Web"],
+      "content": "Performance optimization includes lazy loading, image compression, code splitting, caching, and minimizing unnecessary renders. These techniques improve user experience and search engine rankings."
+    },
+    {
+      "id": 10,
+      "title": "Understanding Authentication",
+      "summary": "Learn the basics of user authentication in web applications.",
+      "image": "https://picsum.photos/600/400?random=10",
+      "category": "Security",
+      "tags": ["Authentication", "JWT", "Security"],
+      "content": "Authentication verifies a user's identity before granting access. Common approaches include sessions, JWT tokens, OAuth, and multi-factor authentication to enhance application security."
+    },
+    {
+      "id": 11,
+      "title": "Getting Started with Git",
+      "summary": "Learn how Git helps developers manage source code effectively.",
+      "image": "https://picsum.photos/600/400?random=11",
+      "category": "Git",
+      "tags": ["Git", "Version Control", "Development"],
+      "content": "Git is a distributed version control system that tracks changes in code, supports collaboration, and allows developers to create branches, merge features, and maintain project history."
+    },
+    {
+      "id": 12,
+      "title": "Modern JavaScript Features",
+      "summary": "Explore ES6+ features every JavaScript developer should know.",
+      "image": "https://picsum.photos/600/400?random=12",
+      "category": "JavaScript",
+      "tags": ["ES6", "JavaScript", "Programming"],
+      "content": "Modern JavaScript introduces arrow functions, destructuring, template literals, async/await, modules, and optional chaining. These features improve readability and developer productivity."
+    },
+    {
+      "id": 13,
+      "title": "Introduction to Docker",
+      "summary": "Learn how Docker simplifies application deployment.",
+      "image": "https://picsum.photos/600/400?random=13",
+      "category": "DevOps",
+      "tags": ["Docker", "Containers", "Deployment"],
+      "content": "Docker packages applications and their dependencies into lightweight containers. This ensures consistency across development, testing, and production environments while simplifying deployment."
+    },
+    {
+      "id": 14,
+      "title": "Why Accessibility Matters",
+      "summary": "Build websites that everyone can use regardless of ability.",
+      "image": "https://picsum.photos/600/400?random=14",
+      "category": "Accessibility",
+      "tags": ["Accessibility", "A11y", "Web"],
+      "content": "Accessible websites use semantic HTML, proper color contrast, keyboard navigation, and descriptive labels. These practices improve usability for everyone and comply with web accessibility standards."
+    },
+    {
+      "id": 15,
+      "title": "Deploying a Next.js Application",
+      "summary": "A complete overview of deploying a production-ready Next.js project.",
+      "image": "https://picsum.photos/600/400?random=15",
+      "category": "Deployment",
+      "tags": ["Next.js", "Vercel", "Deployment"],
+      "content": "Deploying a Next.js application is straightforward with platforms like Vercel. Build optimization, server-side rendering, image optimization, and environment variables make production deployments reliable and efficient."
+    }
+  ]
+}
